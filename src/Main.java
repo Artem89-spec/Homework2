@@ -53,8 +53,8 @@ public class Main {
         System.out.println();
 
         // Задача 7
-        weightDifference = weightBoxer2 % weightBoxer1;
-        System.out.println(weightDifference);
+        var weightRemainder = weightBoxer2 % weightBoxer1;
+        System.out.println(weightRemainder);
         System.out.println();
 
         // Задача 8
